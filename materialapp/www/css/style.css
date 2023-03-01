@@ -68,3 +68,13 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+#imgArticle{
+  width: 400px;
+}
+
+.icon-block{
+  padding-top:4px;
+  padding-bottom:4px;
+  background-color: #109a15
+}
